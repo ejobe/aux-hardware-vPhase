@@ -1,0 +1,20 @@
+; Version : LOCAL
+; Job     : U:\PCB_designs\oberla\vPhaseClock\PCB\Board1.pcb
+; User    : BLUE:eric
+; Date    : Tue Apr 11 09:34:57 2017
+; Format  : 2.4 / Absolute / Inch / Trailing
+; Contents: Thru / Drill / Non-Plated
+M48
+INCH,LZ
+FMAT,2
+ICI,OFF
+T09C0.1280
+%
+M72
+G90
+G93X0Y0
+T09
+X0215Y0085
+Y0185
+T00
+M30
