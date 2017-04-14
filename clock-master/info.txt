@@ -1,0 +1,1 @@
+100 MHz LVDS osc and LVDS fanout to ADC boards + CMOS fanout to ARA-DAQ
