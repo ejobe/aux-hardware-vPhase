@@ -1,0 +1,4 @@
+Power module for downhole hardware.
+
+Takes +15 up to +36 V input. Steps down with DC-DC converter followed by +12V linear regulators. 
+Has two +12 V outputs, up to about 4 A each.
