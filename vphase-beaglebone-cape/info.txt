@@ -1,0 +1,3 @@
+Breakout cape for BeagleBone Black Industrial Versoin
+
+Exposes both SPI buses for data and coms
